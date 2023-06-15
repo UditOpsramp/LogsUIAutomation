@@ -1,0 +1,19 @@
+---
+global:
+  ignore_older: 4h
+inputs:
+  logscount:
+    type: file
+    include:
+    - /home/udit/Documents/LogsUIAutomation/generateLogs/*.log
+    exclude:
+    - ''
+    regex: ''
+    custom_formatting: ''
+    time_format: ''
+    filters:
+    - key: ''
+      include: ''
+    masking:
+    - text: ''
+      placeholder: ''
