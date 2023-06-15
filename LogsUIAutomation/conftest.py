@@ -7,9 +7,8 @@ from TestData import LoginData, LogGeneratorCount
 
 @pytest.fixture(scope="class")
 def setup(request):
-	service_obj = Service("/home/udit/Documents/LogsUIAutomation/geckodriver")
-	driver = webdriver.Firefox(service=service_obj)
-	"""
+	# service_obj = Service("/home/udit/Documents/LogsUIAutomation/geckodriver")
+	# driver = webdriver.Firefox(service=service_obj)
 	capabilities = {
 		"browserName": "firefox",
 		"browserVersion": "96.0",
@@ -21,7 +20,7 @@ def setup(request):
 	driver = webdriver.Remote(
 		command_executor='http://172.26.1.88:4444/wd/hub',
 		desired_capabilities=capabilities)
-	"""
+
 	driver.maximize_window()
 	request.cls.driver = driver
 	yield
