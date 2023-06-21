@@ -3997,3 +3997,1448 @@ JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS
 JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1686646255166	Marionette	INFO	Stopped listening on port 36603
 Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686808739627	geckodriver	INFO	Listening on 127.0.0.1:51441
+1686808739660	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "53953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewm87Uc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686808741047	Marionette	INFO	Marionette enabled
+1686808741050	Marionette	INFO	Listening on port 43311
+Read port: 43311
+WebDriver BiDi listening on ws://127.0.0.1:53953
+1686808741194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53953/devtools/browser/99d9d9a4-2614-4163-9aa6-e8d7477c99d8
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686808748920	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686808752950	Marionette	INFO	Stopped listening on port 43311
+1686808754102	geckodriver	INFO	Listening on 127.0.0.1:56961
+1686808754123	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "44921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMzzsSz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686808755289	Marionette	INFO	Marionette enabled
+1686808755299	Marionette	INFO	Listening on port 36565
+Read port: 36565
+WebDriver BiDi listening on ws://127.0.0.1:44921
+1686808755432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44921/devtools/browser/f4808a11-36e8-4260-bf8c-18a99a51d26c
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686808763319	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686808768254	Marionette	INFO	Stopped listening on port 36565
+1686808769221	geckodriver	INFO	Listening on 127.0.0.1:37245
+1686808769741	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "55127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegpNkIk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686808770804	Marionette	INFO	Marionette enabled
+1686808770807	Marionette	INFO	Listening on port 42801
+Read port: 42801
+WebDriver BiDi listening on ws://127.0.0.1:55127
+1686808770922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55127/devtools/browser/44c3859b-4a81-48c7-862f-ae7b2d45b077
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686808779600	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686808787984	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1686746244000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1686746244000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+1686808788200	Marionette	INFO	Stopped listening on port 42801
+1686808789297	geckodriver	INFO	Listening on 127.0.0.1:58351
+1686808789312	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "40551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej6LTKf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686808790400	Marionette	INFO	Marionette enabled
+1686808790404	Marionette	INFO	Listening on port 36447
+Read port: 36447
+WebDriver BiDi listening on ws://127.0.0.1:40551
+1686808790523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40551/devtools/browser/8ecfdbae-e493-4f4d-a56e-40bfbd274b13
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686808855498	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686808870843	Marionette	INFO	Stopped listening on port 36447
+1686808871681	geckodriver	INFO	Listening on 127.0.0.1:41117
+1686808872234	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "41877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileElhGr5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686808873594	Marionette	INFO	Marionette enabled
+1686808873597	Marionette	INFO	Listening on port 38129
+Read port: 38129
+WebDriver BiDi listening on ws://127.0.0.1:41877
+1686808873714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41877/devtools/browser/0be3ce7a-c5c7-4219-a4ba-ea86947fe14f
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686808932918	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686808949789	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1686808950033	Marionette	INFO	Stopped listening on port 38129
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686808950843	geckodriver	INFO	Listening on 127.0.0.1:55187
+1686808951411	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "36855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKbeJ42"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686808952491	Marionette	INFO	Marionette enabled
+1686808952495	Marionette	INFO	Listening on port 40883
+Read port: 40883
+WebDriver BiDi listening on ws://127.0.0.1:36855
+1686808952615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36855/devtools/browser/4e4fb963-77bd-45ac-b4dd-b90b2a4dc0ff
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686809011457	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686809029514	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1686809030064	Marionette	INFO	Stopped listening on port 40883
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686809030872	geckodriver	INFO	Listening on 127.0.0.1:37377
+1686809030896	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "52397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepELg7e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686809032341	Marionette	INFO	Marionette enabled
+1686809032345	Marionette	INFO	Listening on port 43187
+Read port: 43187
+WebDriver BiDi listening on ws://127.0.0.1:52397
+1686809032456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52397/devtools/browser/f88f3d16-e395-4441-9298-455f4725c95d
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686809040753	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 572))
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686809058365	Marionette	INFO	Stopped listening on port 43187
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686830248413	geckodriver	INFO	Listening on 127.0.0.1:58449
+1686830248958	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "34597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepWUwfN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830250255	Marionette	INFO	Marionette enabled
+1686830250259	Marionette	INFO	Listening on port 42421
+Read port: 42421
+WebDriver BiDi listening on ws://127.0.0.1:34597
+1686830250394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34597/devtools/browser/4c9c0172-21f9-479d-a5fd-12521efac3ce
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830257801	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686830262854	Marionette	INFO	Stopped listening on port 42421
+1686830263785	geckodriver	INFO	Listening on 127.0.0.1:57659
+1686830264300	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "52839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFbVuAK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830265307	Marionette	INFO	Marionette enabled
+1686830265312	Marionette	INFO	Listening on port 42939
+WebDriver BiDi listening on ws://127.0.0.1:52839
+Read port: 42939
+1686830265582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52839/devtools/browser/5a087045-e470-4ca1-8f58-dca43e464e20
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830273014	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686830279047	Marionette	INFO	Stopped listening on port 42939
+1686830279882	geckodriver	INFO	Listening on 127.0.0.1:38427
+1686830280397	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "58575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7lM1ke"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830281340	Marionette	INFO	Marionette enabled
+1686830281344	Marionette	INFO	Listening on port 38645
+Read port: 38645
+WebDriver BiDi listening on ws://127.0.0.1:58575
+1686830281448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58575/devtools/browser/03418bbe-48b6-44d9-98cb-847d604fbfd0
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830288611	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 572))
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686830295228	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1686746244000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1686746244000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+1686830297661	Marionette	INFO	Stopped listening on port 38645
+1686830298540	geckodriver	INFO	Listening on 127.0.0.1:50645
+1686830299080	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "60009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI6GfaH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830300104	Marionette	INFO	Marionette enabled
+1686830300108	Marionette	INFO	Listening on port 41059
+Read port: 41059
+WebDriver BiDi listening on ws://127.0.0.1:60009
+1686830300232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60009/devtools/browser/74b0958d-940e-4d5f-a296-c6ca367b615d
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830369185	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830384363	Marionette	INFO	Stopped listening on port 41059
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686830385236	geckodriver	INFO	Listening on 127.0.0.1:58321
+1686830385755	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "48065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoN65lC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830386715	Marionette	INFO	Marionette enabled
+1686830386719	Marionette	INFO	Listening on port 34633
+Read port: 34633
+WebDriver BiDi listening on ws://127.0.0.1:48065
+1686830386852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48065/devtools/browser/ed6ad3ee-a6a9-406c-8163-304bb28b40d7
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830447137	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686830455192	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1686746244000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1686746244000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+1686830468383	Marionette	INFO	Stopped listening on port 34633
+1686830468901	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1686830512745	geckodriver	INFO	Listening on 127.0.0.1:45207
+1686830512763	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "56167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7itVXP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830513731	Marionette	INFO	Marionette enabled
+1686830513735	Marionette	INFO	Listening on port 33769
+Read port: 33769
+WebDriver BiDi listening on ws://127.0.0.1:56167
+1686830513854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56167/devtools/browser/d1446802-2d9a-461c-8ea9-32df8553a7aa
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830521686	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 572))
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686830527267	Marionette	INFO	Stopped listening on port 33769
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686830528229	geckodriver	INFO	Listening on 127.0.0.1:47593
+1686830528244	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "50845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRsFoKx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830529682	Marionette	INFO	Marionette enabled
+1686830529686	Marionette	INFO	Listening on port 45571
+Read port: 45571
+WebDriver BiDi listening on ws://127.0.0.1:50845
+1686830529812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50845/devtools/browser/694fb8c0-856c-4ff4-8e72-67cae5929b18
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830537556	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686830543037	Marionette	INFO	Stopped listening on port 45571
+1686830543882	geckodriver	INFO	Listening on 127.0.0.1:36175
+1686830544419	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "59011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh1dxqr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830545418	Marionette	INFO	Marionette enabled
+1686830545423	Marionette	INFO	Listening on port 42455
+WebDriver BiDi listening on ws://127.0.0.1:59011
+Read port: 42455
+1686830545676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59011/devtools/browser/e60e9f11-6469-445f-82df-36970be51d55
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830552939	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686830562428	Marionette	INFO	Stopped listening on port 42455
+1686830563240	geckodriver	INFO	Listening on 127.0.0.1:36263
+1686830563786	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "45797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileS8FP7i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830564679	Marionette	INFO	Marionette enabled
+1686830564682	Marionette	INFO	Listening on port 37063
+Read port: 37063
+WebDriver BiDi listening on ws://127.0.0.1:45797
+1686830564788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45797/devtools/browser/88cf231a-4769-48fe-a028-0928cfadff92
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830623155	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830637461	Marionette	INFO	Stopped listening on port 37063
+1686830638338	geckodriver	INFO	Listening on 127.0.0.1:33857
+1686830638350	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "52465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenemBsv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830639419	Marionette	INFO	Marionette enabled
+1686830639423	Marionette	INFO	Listening on port 46231
+Read port: 46231
+WebDriver BiDi listening on ws://127.0.0.1:52465
+1686830639533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52465/devtools/browser/44a6ac6d-d95e-41da-a24e-add54c95599a
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830697896	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830713817	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1686830714093	Marionette	INFO	Stopped listening on port 46231
+1686830714798	geckodriver	INFO	Listening on 127.0.0.1:37297
+1686830715328	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "40311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoOD3jd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830716289	Marionette	INFO	Marionette enabled
+1686830716295	Marionette	INFO	Listening on port 32957
+Read port: 32957
+WebDriver BiDi listening on ws://127.0.0.1:40311
+1686830716401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40311/devtools/browser/2e423b97-f30c-440b-81a1-7572552c9713
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830773998	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 572))
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686830779841	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1686746244000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1686746244000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830787925	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1686830788403	Marionette	INFO	Stopped listening on port 32957
+1686830789211	geckodriver	INFO	Listening on 127.0.0.1:42899
+1686830789754	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "50453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileq6wK9u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686830790694	Marionette	INFO	Marionette enabled
+1686830790698	Marionette	INFO	Listening on port 43057
+Read port: 43057
+WebDriver BiDi listening on ws://127.0.0.1:50453
+1686830790802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50453/devtools/browser/b1ab67fb-aec6-4667-a74e-2cdf5ad54278
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686746278000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686830799591	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686830806967	Marionette	INFO	Stopped listening on port 43057
+1686909073145	geckodriver	INFO	Listening on 127.0.0.1:38325
+1686909073182	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "51421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBzwe2a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909075078	Marionette	INFO	Marionette enabled
+1686909075081	Marionette	INFO	Listening on port 33121
+Read port: 33121
+WebDriver BiDi listening on ws://127.0.0.1:51421
+1686909075203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51421/devtools/browser/65bfba68-6598-4055-bcc9-fff485cc4bd2
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686832703000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686909083861	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686909088845	Marionette	INFO	Stopped listening on port 33121
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686909089610	geckodriver	INFO	Listening on 127.0.0.1:54797
+1686909090125	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "46557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT7qyPP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909091028	Marionette	INFO	Marionette enabled
+1686909091031	Marionette	INFO	Listening on port 37393
+WebDriver BiDi listening on ws://127.0.0.1:46557
+Read port: 37393
+1686909091259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46557/devtools/browser/f7eedb1e-e773-4643-9fce-55000e09e5bd
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686832703000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686909098321	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686909103065	Marionette	INFO	Stopped listening on port 37393
+1686909103843	geckodriver	INFO	Listening on 127.0.0.1:57623
+1686909104392	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "38441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile65MxFk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909105317	Marionette	INFO	Marionette enabled
+1686909105320	Marionette	INFO	Listening on port 46007
+WebDriver BiDi listening on ws://127.0.0.1:38441
+Read port: 46007
+1686909105518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38441/devtools/browser/db6720ff-3fd1-422e-a5c3-c7f7b6144942
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686832703000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686909112789	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686909122279	Marionette	INFO	Stopped listening on port 46007
+1686909123064	geckodriver	INFO	Listening on 127.0.0.1:38029
+1686909123615	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "50447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileW8zjzn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909124549	Marionette	INFO	Marionette enabled
+1686909124552	Marionette	INFO	Listening on port 46639
+WebDriver BiDi listening on ws://127.0.0.1:50447
+Read port: 46639
+1686909124661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50447/devtools/browser/014108c6-86c8-4e82-996c-22ef582da287
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686832703000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686909132144	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: https://uat.opsramp.net/navbarWrapper/build/static/js/main.e5b8db66.js, line 2: Error: Request aborted
+1686909147779	Marionette	INFO	Stopped listening on port 46639
+1686909148721	geckodriver	INFO	Listening on 127.0.0.1:53151
+1686909149242	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "53983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQ9UK4u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909150426	Marionette	INFO	Marionette enabled
+1686909150431	Marionette	INFO	Listening on port 33089
+Read port: 33089
+WebDriver BiDi listening on ws://127.0.0.1:53983
+1686909150578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53983/devtools/browser/91441f13-9d21-421d-afec-376273122257
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686832703000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686909209285	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909223519	Marionette	INFO	Stopped listening on port 33089
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686909224164	geckodriver	INFO	Listening on 127.0.0.1:49997
+1686909224682	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "41985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyARjKi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909225580	Marionette	INFO	Marionette enabled
+1686909225585	Marionette	INFO	Listening on port 44253
+WebDriver BiDi listening on ws://127.0.0.1:41985
+Read port: 44253
+1686909225831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41985/devtools/browser/f1e5bd8a-b557-41e9-94d0-01432f5db66c
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686832703000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686909284434	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686909291482	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1686907176000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1686907176000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909301714	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1686909302018	Marionette	INFO	Stopped listening on port 44253
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686909303039	geckodriver	INFO	Listening on 127.0.0.1:48849
+1686909303061	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "37789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelbSi5u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909304342	Marionette	INFO	Marionette enabled
+1686909304348	Marionette	INFO	Listening on port 35201
+Read port: 35201
+WebDriver BiDi listening on ws://127.0.0.1:37789
+1686909304476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37789/devtools/browser/36194c32-58fe-4a67-b231-b3d0d215a61c
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686832703000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686909363287	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686909372208	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1686907176000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1686907176000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909381931	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1686909382426	Marionette	INFO	Stopped listening on port 35201
+1686909383244	geckodriver	INFO	Listening on 127.0.0.1:35443
+1686909383263	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "44461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7GbB66"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909384245	Marionette	INFO	Marionette enabled
+1686909384252	Marionette	INFO	Listening on port 38827
+Read port: 38827
+WebDriver BiDi listening on ws://127.0.0.1:44461
+1686909384382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44461/devtools/browser/5695a003-cff6-4265-b041-fbb9e48d88a8
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686832703000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686909391584	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686909399157	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1686907176000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1686907176000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686909408164	Marionette	INFO	Stopped listening on port 38827
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686917135450	geckodriver	INFO	Listening on 127.0.0.1:42339
+1686917135464	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "47905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYGZzXP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686917136325	Marionette	INFO	Marionette enabled
+1686917136329	Marionette	INFO	Listening on port 37169
+Read port: 37169
+WebDriver BiDi listening on ws://127.0.0.1:47905
+1686917136421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47905/devtools/browser/bd34fed3-8325-405e-b45e-51d70425c96e
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686592151000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686917143319	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686917146730	Marionette	INFO	Stopped listening on port 37169
+1686917147622	geckodriver	INFO	Listening on 127.0.0.1:59243
+1686917148167	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "39799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepoLBMQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686917149112	Marionette	INFO	Marionette enabled
+1686917149115	Marionette	INFO	Listening on port 37195
+Read port: 37195
+WebDriver BiDi listening on ws://127.0.0.1:39799
+1686917149209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39799/devtools/browser/28ecafc2-225b-48e6-aca7-c242dff4c0ae
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686592151000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686917156311	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686917160661	Marionette	INFO	Stopped listening on port 37195
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686917161467	geckodriver	INFO	Listening on 127.0.0.1:52365
+1686917162005	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "59817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileil4dOy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686917162893	Marionette	INFO	Marionette enabled
+1686917162896	Marionette	INFO	Listening on port 45381
+Read port: 45381
+WebDriver BiDi listening on ws://127.0.0.1:59817
+1686917162991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59817/devtools/browser/f0bb7ebe-10fd-4ccd-aefd-f2a2235d55a4
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686592151000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686917169950	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686917178722	Marionette	INFO	Stopped listening on port 45381
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686917179391	geckodriver	INFO	Listening on 127.0.0.1:45429
+1686917179406	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "56687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileclpE5k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686917180333	Marionette	INFO	Marionette enabled
+1686917180336	Marionette	INFO	Listening on port 34793
+Read port: 34793
+WebDriver BiDi listening on ws://127.0.0.1:56687
+1686917180461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56687/devtools/browser/8a30dbde-8858-418f-adcf-85fd9aa60a22
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686592151000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686917187964	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686917194828	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1686907176000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1686907176000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1686917207988	geckodriver	INFO	Listening on 127.0.0.1:50459
+1686917208005	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "40887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0g08Tv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686917208996	Marionette	INFO	Marionette enabled
+1686917209000	Marionette	INFO	Listening on port 42361
+Read port: 42361
+WebDriver BiDi listening on ws://127.0.0.1:40887
+1686917209100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40887/devtools/browser/8f813a05-2034-4976-b7b8-eb62c8c139e9
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686592151000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686917216727	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686917221442	Marionette	INFO	Stopped listening on port 42361
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1686917222307	geckodriver	INFO	Listening on 127.0.0.1:41139
+1686917222855	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "55173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOtgc9s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686917223756	Marionette	INFO	Marionette enabled
+1686917223760	Marionette	INFO	Listening on port 39051
+WebDriver BiDi listening on ws://127.0.0.1:55173
+Read port: 39051
+1686917224024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55173/devtools/browser/59845856-1133-4622-a7af-702e0c495e14
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686592151000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686917231153	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686917236324	Marionette	INFO	Stopped listening on port 39051
+1686917237126	geckodriver	INFO	Listening on 127.0.0.1:48829
+1686917237685	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "46265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOHlmLI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686917238656	Marionette	INFO	Marionette enabled
+1686917238660	Marionette	INFO	Listening on port 41931
+Read port: 41931
+WebDriver BiDi listening on ws://127.0.0.1:46265
+1686917238761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46265/devtools/browser/34a2cd81-119e-4d5c-927b-c6a07a39f17e
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686592151000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686917246360	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1686917253866	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1686907176000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1686907176000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+1686917256100	Marionette	INFO	Stopped listening on port 41931
+1686917256975	geckodriver	INFO	Listening on 127.0.0.1:49443
+1686917257499	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "50039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuml7jH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686917258393	Marionette	INFO	Marionette enabled
+1686917258397	Marionette	INFO	Listening on port 44981
+Read port: 44981
+WebDriver BiDi listening on ws://127.0.0.1:50039
+1686917258498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50039/devtools/browser/a08985c6-ae9c-4a9c-bea4-b8625ed43f68
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1686592151000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1686917265584	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1686917304199	Marionette	INFO	Stopped listening on port 44981
+1687172401288	geckodriver	INFO	Listening on 127.0.0.1:59937
+1687172401391	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "38141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerePEvf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172404100	Marionette	INFO	Marionette enabled
+1687172404109	Marionette	INFO	Listening on port 43145
+Read port: 43145
+WebDriver BiDi listening on ws://127.0.0.1:38141
+1687172404275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38141/devtools/browser/a66fe1be-c39b-405f-be76-f15473b3426d
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1687091909000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1687172411950	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1687172416034	Marionette	INFO	Stopped listening on port 43145
+1687172417024	geckodriver	INFO	Listening on 127.0.0.1:56717
+1687172417546	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "60383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilez0D1lR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172419080	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172419085	Marionette	INFO	Listening on port 45585
+Read port: 45585
+WebDriver BiDi listening on ws://127.0.0.1:60383
+1687172419208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60383/devtools/browser/222fdda0-5abb-49ee-bda5-091d830d3545
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1687091909000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1687172427402	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1687172434194	Marionette	INFO	Stopped listening on port 45585
+1687172435143	geckodriver	INFO	Listening on 127.0.0.1:60665
+1687172435695	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "40131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebfKw8U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172437070	Marionette	INFO	Marionette enabled
+1687172437074	Marionette	INFO	Listening on port 33983
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 33983
+WebDriver BiDi listening on ws://127.0.0.1:40131
+1687172437223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40131/devtools/browser/511e9110-a51d-4c7c-89ba-db3255277c14
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1687091909000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1687172444608	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1687172450647	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1687091876000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1687091876000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+1687172452633	Marionette	INFO	Stopped listening on port 33983
+1687172453550	geckodriver	INFO	Listening on 127.0.0.1:58329
+1687172454063	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "43717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledU8ZFA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172455503	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172455512	Marionette	INFO	Listening on port 39365
+Read port: 39365
+WebDriver BiDi listening on ws://127.0.0.1:43717
+1687172455671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43717/devtools/browser/8bf30baa-d152-4a9a-ba46-e123e5b4030a
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1687091909000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1687172462875	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1687172478875	Marionette	INFO	Stopped listening on port 39365
+1687172479822	geckodriver	INFO	Listening on 127.0.0.1:52481
+1687172480342	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "50569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLxozOc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172481945	Marionette	INFO	Marionette enabled
+1687172481950	Marionette	INFO	Listening on port 43013
+Read port: 43013
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:50569
+1687172482165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50569/devtools/browser/86dd000a-cce9-4d7f-891f-fa62f40990b9
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1687091909000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1687172545641	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1687172552931	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1687091876000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1687091876000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172562191	Marionette	INFO	Stopped listening on port 43013
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1687172563066	geckodriver	INFO	Listening on 127.0.0.1:52125
+1687172563583	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "52177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegyQVQh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172565345	Marionette	INFO	Marionette enabled
+1687172565352	Marionette	INFO	Listening on port 44349
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 44349
+WebDriver BiDi listening on ws://127.0.0.1:52177
+1687172565518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52177/devtools/browser/ff196e77-5b63-4546-8ff1-1aaa0b0b9940
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1687091909000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1687172625306	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1687172630861	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1687091876000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1687091876000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172639388	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1687172639646	Marionette	INFO	Stopped listening on port 44349
+1687172640569	geckodriver	INFO	Listening on 127.0.0.1:37011
+1687172641095	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "46921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileseGNvg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172643052	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172643058	Marionette	INFO	Listening on port 35751
+Read port: 35751
+WebDriver BiDi listening on ws://127.0.0.1:46921
+1687172643202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46921/devtools/browser/d21e6afc-f872-4a92-98a5-e70b229f671e
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1687091909000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1687172703582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172726001	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1687172726459	Marionette	INFO	Stopped listening on port 35751
+1687172727387	geckodriver	INFO	Listening on 127.0.0.1:59645
+1687172727905	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "45129" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilen7NpiR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172729569	Marionette	INFO	Marionette enabled
+1687172729575	Marionette	INFO	Listening on port 37747
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 37747
+WebDriver BiDi listening on ws://127.0.0.1:45129
+1687172729720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45129/devtools/browser/1188ee39-79f0-4465-b44f-0cd9a39a9f52
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1687091909000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1687172737357	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172751629	Marionette	INFO	Stopped listening on port 37747
+1687172861647	geckodriver	INFO	Listening on 127.0.0.1:38035
+1687172861664	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "39091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0Eb9fB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172862928	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172862932	Marionette	INFO	Listening on port 36939
+Read port: 36939
+WebDriver BiDi listening on ws://127.0.0.1:39091
+1687172863051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39091/devtools/browser/b6bd259e-36a0-4d35-9e22-c7f52ed31e1d
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1687091909000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1687172870831	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1687172877864	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+send@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82714
+ajax@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:78291
+S._evalUrl@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:80586
+He@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:48314
+append@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:49724
+html/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50816
+$@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:32425
+html@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:50494
+handleAjaxResponse@https://uat.opsramp.net/js/wrapper.js?1687091876000:17:178
+success@https://uat.opsramp.net/js/wrapper.js?1687091876000:4:405
+c@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:28327
+fireWith@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:29072
+l@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:79901
+send/o/<@https://uat.opsramp.net/js/jquery/jquery.min.js?1684736096000:2:82355
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687172886160	Marionette	INFO	Stopped listening on port 36939
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1687177566655	geckodriver	INFO	Listening on 127.0.0.1:51885
+1687177566681	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "56419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileP3QCtI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687177568148	Marionette	INFO	Marionette enabled
+1687177568152	Marionette	INFO	Listening on port 46163
+Read port: 46163
+WebDriver BiDi listening on ws://127.0.0.1:56419
+1687177568291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1687178743048	geckodriver	INFO	Listening on 127.0.0.1:43889
+1687178743070	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... te" "--remote-debugging-port" "60045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL9bUN9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687178744283	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1687178744288	Marionette	INFO	Listening on port 46621
+WebDriver BiDi listening on ws://127.0.0.1:60045
+Read port: 46621
+1687178744537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60045/devtools/browser/e8e4d6cd-e154-4f8e-a011-1d85866b5471
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://uat.opsramp.net/tenancy/js/iife.min.js?1687091909000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uat.opsramp.net."
+1687178752795	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://uat.opsramp.net/js/iife.min.js?1684736096000, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 102: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

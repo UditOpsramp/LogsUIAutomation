@@ -2,7 +2,6 @@ import pytest
 from selenium.common import TimeoutException
 
 from pageObjects import HomePage
-from pageObjects.Login_Page import LoginPage
 from utilities.BaseClass import BaseClass
 
 

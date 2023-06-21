@@ -12,7 +12,7 @@ class TestSaveViewFunctionality(BaseClass):
 
 		try:
 			hamBurgerMenuPage = HamBurgerMenu(self.driver, getData)
-			savedViewText = hamBurgerMenuPage.SavedViewList()
+			savedViewText = hamBurgerMenuPage.SavedView()
 			savedViewDisplayStatus = self.isDisplayed(savedViewText)
 			if not savedViewDisplayStatus:
 				raise AssertionError("Saved View is not showing in View List")

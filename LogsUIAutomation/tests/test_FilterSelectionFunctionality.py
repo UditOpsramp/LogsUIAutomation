@@ -1,7 +1,6 @@
 import pytest
 from selenium.common import TimeoutException, NoSuchElementException
 
-from pageObjects.Login_Page import LoginPage
 from generateLogs import logsGenerator
 from pageObjects.LogsPage import LogsPage
 from utilities.BaseClass import BaseClass
